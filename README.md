@@ -1,6 +1,6 @@
 ## Author
-# Yotam Feinberg #
-I copied my teachers task with my code and bot, also I copied it using ai. The code uses a sort of minmax with adjusted weights using ai, won in a school contest with it
+## Yotam Feinberg ##
+I copied my teacher's task with my code and bot, also I copied it using ai. The code uses a sort of minmax with adjusted weights using ai, won in a school contest with it
 
 
 # reversi-coding-task
