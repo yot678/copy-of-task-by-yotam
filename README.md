@@ -1,5 +1,6 @@
 ## Author
-I copied his task with my code and bot, also I copied it using ai. The code uses a sort of minmax with adjusted weights using ai, won in a school contest with it
+I copied my teachers task with my code and bot, also I copied it using ai. The code uses a sort of minmax with adjusted weights using ai, won in a school contest with it
+
 This task was created by [Niv Seker](https://github.com/sekerniv).
 
 For any questions or further assistance, feel free to reach out!
